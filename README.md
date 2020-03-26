@@ -53,8 +53,8 @@ There are two distinct steps in the build process using CMake:
 * [LuaLibrary](https://github.com/rhymu8354/lua.git) - a fork of
   [Lua](http://www.lua.org/) which includes a `CMakeLists.txt` file for
   incorporation into a CMake-based build system; this repository can be pulled
-  in by running the command `git submodule update` from the directory
-  containing this file
+  in by running the command `git submodule init` followed by the command `git
+  submodule update` from the directory containing this file
 
 ### Build system generation
 
