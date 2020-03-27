@@ -10,7 +10,7 @@ The `Example1` program is the most basic example and just demonstrates calling
 Lua to perform a simple computation.  It should print the answer `42` which is
 computed in Lua as the sum of the numbers `15` and `27`.
 
-The `Example2` program performs the same work as `Example`, but demonstrates
+The `Example2` program performs the same work as `Example1`, but demonstrates
 how to use custom delegates to more finely control how the program interacts
 with Lua.
 
