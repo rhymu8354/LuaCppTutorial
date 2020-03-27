@@ -2,7 +2,7 @@
 
 This is an example workspace demonstrating various aspects of how to use Lua
 in C++ programs.  It was designed to accompany the video,
-[Tutorial: Using Lua with C++](https://example.com/put-url-to-youtube-video-here).
+[Tutorial: Using Lua with C++](https://youtu.be/kDHGfHxwymI).
 
 ## Usage
 
